@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Welcome!&fontSize=90&animation=twinkling&fontColor=6B66FF" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Welcome!%20My%20Page&fontSize=90&animation=twinkling&fontColor=6B66FF" />
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinho123&show_icons=true&theme=radical)
