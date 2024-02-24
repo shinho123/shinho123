@@ -19,5 +19,5 @@
 ## Use Tool
 <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-green?style=for-the-badge&logo=Jupyter" /> <img src="https://img.shields.io/badge/VSCode-1f425f.svg" />
 
-## stats
+## Lanaguage Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinho123&layout=compact)
